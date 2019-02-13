@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FB01FF;}
+</style>
+<rect x="187" y="108.8" class="st0" width="7" height="238.7"/>
+<rect x="190.5" y="264" class="st0" width="160" height="7"/>
+<rect x="347" y="347.5" class="st0" width="7" height="240"/>
+<rect x="110.5" y="424" class="st0" width="160" height="7"/>
+<rect x="267" y="347.5" class="st0" width="7" height="80"/>
+<rect x="190.5" y="584" class="st0" width="80" height="7"/>
+<rect x="190.5" y="504" class="st0" width="80" height="7"/>
+<rect x="267" y="507.5" class="st0" width="7" height="80"/>
+<rect x="187" y="587.5" class="st0" width="7" height="160"/>
+<rect x="270.5" y="664" class="st0" width="240" height="7"/>
+<rect x="430.5" y="584" class="st0" width="320" height="7"/>
+<rect x="427" y="507.5" class="st0" width="7" height="80"/>
+<rect x="430.5" y="504" class="st0" width="240" height="7"/>
+<rect x="427" y="347.5" class="st0" width="7" height="80"/>
+<rect x="270.5" y="184" class="st0" width="160" height="7"/>
+<rect x="507" y="107.5" class="st0" width="7" height="240"/>
+<rect x="510.5" y="344" class="st0" width="80" height="7"/>
+<rect x="987" y="667.5" class="st0" width="7" height="160"/>
+<polygon class="st0" points="594,667.5 587,667.5 587,824 434,824 434,744 113,744 113,751 427,751 427,831 594,831 "/>
+<rect x="750.5" y="744" class="st0" width="160" height="7"/>
+<rect x="910.5" y="824" class="st0" width="80" height="7"/>
+<rect x="907" y="827.5" class="st0" width="7" height="160"/>
+<polygon class="st0" points="834,264 590.5,264 590.5,271 827,271 827,584 754,584 754,347.5 747,347.5 747,591 834,591 "/>
+<polygon class="st0" points="674,351 750.5,351 750.5,344 667,344 667,424 430.5,424 430.5,431 674,431 "/>
+<rect x="587" y="187.5" class="st0" width="7" height="80"/>
+<rect x="590.5" y="184" class="st0" width="320" height="7"/>
+<rect x="990.5" y="584" class="st0" width="240" height="7"/>
+<rect x="270.5" y="584" class="st0" width="80" height="7"/>
+<rect x="910.5" y="344" class="st0" width="160" height="7"/>
+<polygon class="st0" points="1150.5,264 994,264 994,107.5 987,107.5 987,271 1150.5,271 "/>
+<polygon class="st0" points="1154,267.5 1147,267.5 1147,424 910.5,424 910.5,431 1154,431 "/>
+<rect x="987" y="507.5" class="st0" width="7" height="80"/>
+<polygon class="st0" points="994,911 1234,911 1234,824 1154,824 1154,744 1067,744 1067,827.5 1074,827.5 1074,751 1147,751 
+	1147,831 1227,831 1227,904 987,904 987,987.5 994,987.5 "/>
+<polygon class="st0" points="1474,744 1387,744 1387,904 1314,904 1314,827.5 1307,827.5 1307,911 1394,911 1394,751 1467,751 
+	1467,987.5 1474,987.5 "/>
+<polygon class="st0" points="1714,827.5 1707,827.5 1707,904 1554,904 1554,827.5 1547,827.5 1547,911 1714,911 "/>
+<polygon class="st0" points="1234,664 1070.5,664 1070.5,671 1227,671 1227,744 1150.5,744 1150.5,751 1234,751 "/>
+<rect x="1467" y="347.5" class="st0" width="7" height="80"/>
+<polygon class="st0" points="1234,184 1070.5,184 1070.5,191 1227,191 1227,427.5 1234,427.5 "/>
+<polygon class="st0" points="1470.5,664 1314,664 1314,504 990.5,504 990.5,511 1307,511 1307,671 1470.5,671 "/>
+<polygon class="st0" points="1714,107.5 1707,107.5 1707,184 1630.5,184 1630.5,191 1714,191 "/>
+<rect x="1470.5" y="344" class="st0" width="80" height="7"/>
+<polygon class="st0" points="1394,271 1474,271 1474,107.5 1467,107.5 1467,264 1387,264 1387,424 1314,424 1314,191 1390.5,191 
+	1390.5,184 1307,184 1307,431 1394,431 "/>
+<polygon class="st0" points="1554,507.5 1547,507.5 1547,584 1310.5,584 1310.5,591 1554,591 "/>
+<rect x="1710.5" y="264" class="st0" width="80" height="7"/>
+<rect x="1547" y="110" class="st0" width="7" height="77.5"/>
+<polygon class="st0" points="1554,671 1634,671 1634,504 1390.5,504 1390.5,511 1627,511 1627,664 1547,664 1547,827.5 1554,827.5 
+	"/>
+<rect x="1307" y="667.5" class="st0" width="7" height="80"/>
+<polygon class="st0" points="1634,751 1796,751 1796,744 1627,744 1627,827.5 1634,827.5 "/>
+<polygon class="st0" points="1714,344 1627,344 1627,424 1554,424 1554,271 1630.5,271 1630.5,264 1547,264 1547,431 1634,431 
+	1634,351 1707,351 1707,507.5 1714,507.5 "/>
+<polygon class="st0" points="1714,587.5 1707,587.5 1707,664 1630.5,664 1630.5,671 1714,671 "/>
+<polygon class="st0" points="1474,424 1390.5,424 1390.5,431 1467,431 1467,507.5 1474,507.5 "/>
+<rect x="427" y="107.5" class="st0" width="7" height="160"/>
+<polygon class="st0" points="674,831 754,831 754,671 914,671 914,187.5 907,187.5 907,664 747,664 747,824 667,824 667,904 
+	510.5,904 510.5,911 674,911 "/>
+<rect x="267" y="747.5" class="st0" width="7" height="80"/>
+<polygon class="st0" points="270.5,904 194,904 194,824 113,824 113,831 187,831 187,911 270.5,911 "/>
+<polygon class="st0" points="434,904 354,904 354,827.5 347,827.5 347,911 427,911 427,987.5 434,987.5 "/>
+<rect x="507" y="667.5" class="st0" width="7" height="80"/>
+<rect x="747" y="907.5" class="st0" width="7" height="80"/>
+<rect x="667" y="587.5" class="st0" width="7" height="160"/>
+<rect x="827" y="747.5" class="st0" width="7" height="160"/>
+</svg>
